@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.colorscontainer{
+text-align: center;
+    margin: 100px;
+}
+span{
+    display: block;
+}
+.button{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    border: solid black 2px;
+}
+input{
+    text-align: center;
+    margin: 100px 0px 0px 10px ;
+}
+label{
+    font-size: 20px;
+    font-weight: bold;
+}
